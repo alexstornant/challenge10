@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+#weather-info h2 {
+    margin-bottom: 0;
+}
+
+#hour {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#temp {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
